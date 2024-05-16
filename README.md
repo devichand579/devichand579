@@ -54,8 +54,4 @@
 <a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
-**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=devichand579&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devichand579's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devichand579&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="devichand579's GitHub Stats" />
