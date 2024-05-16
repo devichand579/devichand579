@@ -40,8 +40,14 @@
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats.vercel.app/api?username=devichand579&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devichand579's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devichand579&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="devichand579's GitHub Stats" />
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=devichand579&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devichand579's GitHub Stats" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devichand579&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="devichand579's GitHub Stats" />
+  </div>
+</div>
 </a>
 </p>
 
