@@ -8,7 +8,15 @@
 - 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
 
 
-### 🛠 &nbsp;Tech 
+## My Stats
+<p>
+<a href="https://github.com/devichand579">
+  <img width="50%"src="https://github-readme-stats.vercel.app/api?username=devichand579&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devichand579's GitHub Stats">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=devichand579&theme=radical&hide_border=true" alt="devichand579's GitHub Stats" />
+</a>
+</p>
+
+## 🛠 &nbsp;Tech 
 
 - 🖥️ &nbsp;
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -26,24 +34,6 @@
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-## Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Linux For Development?](https://dev.to/cdthomp1/linux-for-development-1dnp)
-- [Filament Hero : Update!](https://dev.to/cdthomp1/filament-hero-update-1fg3)
-- [What is your favorite database?](https://dev.to/cdthomp1/what-is-your-favorite-database-55om)
-- [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
-- [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
-<!-- BLOG-POST-LIST:END -->
-
-## My Stats
-<p>
-<a href="https://github.com/devichand579">
-  <img width="50%"src="https://github-readme-stats.vercel.app/api?username=devichand579&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devichand579's GitHub Stats">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=devichand579&theme=radical&hide_border=true" alt="devichand579's GitHub Stats" />
-</a>
-</p>
 
 
 ##  🤝🏻 &nbsp;Connect with Me
