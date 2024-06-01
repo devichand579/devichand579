@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Devichand.
-A fourth year undergraduate student of Department of Computer Science and Engineering, IIT Kharagpur. I actively work in the areas of NLP, Deep Learning and Federated Learning mainly focusing on Scalability and Efficiency of Large Language models along with Knowledge-infused pre-training of LLM's. 
+A fourth year undergraduate student of Department of Computer Science and Engineering, IIT Kharagpur. I actively work in the areas of NLP, Agent Frameworks, Deep Learning and Federated Learning mainly focusing on Scalability and Efficiency of Large Language models along with Knowledge-infused pre-training of LLM's. 
 
 - 🚀 &nbsp; Please reach out for any collaboration in these areas or any other issue regarding the existing repositories.
 
