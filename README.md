@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 ## I'm Devichand.
-A fourth year undergraduate student of Department of Computer Science and Engineering, IIT Kharagpur. I focus on fundamental research in Cognitive Science and NLP, particularly in Psycholinguistics, LLM Reasoning, Neurosymbolic AI, and World Models, inspired by Cognitive Science and Computational Learning to create interpretable, efficient, human-aligned AI systems.
 
-- 🚀 &nbsp; Please reach out for any collaboration in these areas or any other issue regarding the existing repositories.
 
 
 
