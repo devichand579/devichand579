@@ -11,7 +11,6 @@ Feel free to reach out to me if you have questions or discuss anything related t
 <p>
 <a href="https://github.com/devichand579">
   <img width="50%"src="https://github-readme-stats.vercel.app/api?username=devichand579&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devichand579's GitHub Stats">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=devichand579&theme=radical&hide_border=true" alt="devichand579's GitHub Stats" />
 </a>
 </p>
 
