@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Devichand.
-These days I’m more interested in understanding evolution and intelligence.  I’m curious about how we can design representations, parameter collections, objectives and training/testing curricula to create models that are as sample and parameter efficient as humans or better than us and adapt continuously to ever-changing data environments without getting stuck in a local minimum of a fixed loss objective.
+These days I’m more interested in understanding evolution and intelligence.  I’m curious about how we can design representations, parameter collections, objectives and training/testing curricula to create models that are as sample efficient and adaptable as humans or better than us and adapt continuously to ever-changing data environments without getting stuck in a local minimum of a loss objective over a fixed data distribution.
 
 
 Feel free to reach out to me if you have questions or discuss anything related to my research or blogs, or are interested in collaborating.
