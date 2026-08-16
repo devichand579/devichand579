@@ -7,7 +7,7 @@ These days I’m more interested in understanding evolution and intelligence.  I
 Feel free to reach out to me if you have questions or discuss anything related to my research or blogs, or are interested in collaborating.
 
 
-##  🤝🏻 &nbsp;Connect with Me
+##  Connect with Me
 <a href="https://x.com/devichand579" target="_blank">
   <img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white"
        alt="X (Twitter)"
